@@ -1,0 +1,195 @@
+[
+    {
+        "id":1,
+        "title":"Swipe to unclock",
+        "price":"23",
+        "category":"Book",
+        "author":"mehta neel",
+        "image":"images/unlock.jpeg",
+        "inStock": false,
+        "tags": "swipe unlock technology tech swipetounlock book mehta neel parth detroja aditya agashe"
+
+    },
+
+    {
+        "id":2,
+        "title":"The Great Mortality",
+        "price":"28",
+        "category":"Book",
+        "author":"john kelly",
+        "image":"images/mortality.jpeg",
+        "inStock": true,
+        "tags": " philosophy mortality book john kelly"
+
+    },
+    {
+        "id":3,
+        "title":"Rich dad, poor dad",
+        "price":"19",
+        "category":"Book",
+        "author":"robert kiyosaki",
+        "image":"/images/rich.webp",
+        "inStock": false,
+        "tags": "rich dad poor money book robert kiyosaki"
+
+    },
+    {
+        "id":4,
+        "title":"Psychology of money",
+        "price":"28",
+        "category":"Book",
+        "author":"morgan housel",
+        "image":"images/psy-money.jpg",
+        "inStock": true,
+        "tags": "money psychology psychologyofmoney investment book morgan housel"
+
+
+    },
+    {
+        "id":5,
+        "title":"Intelligent investor",
+        "price":17,
+        "category":"Book",
+        "author":"benjamin graham",
+        "image":"/images/investor.jpeg",
+        "inStock": true,
+        "tags": "money psychology psychologyofmoney investment book investor benjamin graham"
+
+    },
+    {
+        "id":6,
+        "title":"It starts with us",
+        "price":17,
+        "category":"Book",
+        "author":"Colleen Hoover",
+        "image":"/images/starts.jpg",
+        "inStock": false,
+        "tags": "book roman love lovestory colleen hoover"
+
+    },
+    {
+        "id":7,
+        "title":"It end with us",
+        "price":17,
+        "category":"Book",
+        "author":"Colleen Hoover",
+        "image":"/images/us.webp",
+        "inStock": true,
+        "tags": "book roman love lovestory colleen hoover"
+
+    },
+    {
+        "id":8,
+        "title":"Atomic Habits",
+        "price":17,
+        "category":"Book",
+        "author":"James Clear",
+        "image":"/images/habits.jpg",
+        "inStock": true,
+        "tags": "book habit lifestyle james clear "
+
+    },
+    {
+        "id":9,
+        "title":"Outliers",
+        "price":17,
+        "category":"Book",
+        "author":"Malcolm Gladwell",
+        "image":"/images/outliers.jpeg",
+        "inStock": true,
+        "tags": "success successful people book lifestyle malcolm gladwell "
+
+    },    {
+        "id":10,
+        "title":"1984",
+        "price":17,
+        "category":"Book",
+        "author":"george orwell",
+        "image":"/images/1984.jpeg",
+        "inStock": true,
+        "tags": "george orwell book 1984 "
+
+    },
+    {
+        "id":11,
+        "title":"Swipe to unclock",
+        "price":18,
+        "category":"Book",
+        "author":"mehta neel",
+        "image":"images/unlock.jpeg",
+        "inStock": false,
+        "tags": "swipe unlock technology tech swipetounlock book mehta neel parth detroja aditya agashe"
+
+    },
+    {
+        "id":12,
+        "title":"1984",
+        "price":17,
+        "category":"Book",
+        "author":"george orwell",
+        "image":"/images/1984.jpeg",
+        "inStock": false,
+        "tags": "george orwell book 1984 "
+
+    },
+
+    {
+        "id":13,
+        "title":"No more police",
+        "price":"28",
+        "category":"Book",
+        "author":"morgan housel",
+        "image":"images/police.jpeg",
+        "inStock": true,
+        "tags": "police mortality"
+
+    },  
+      {
+        "id":14,
+        "title":"The Lives of Dimaond bessie",
+        "price":19,
+        "category":"Book",
+        "author":"Jody Hadlock",
+        "image":"images/diamond.jpeg",
+        "inStock": true,
+        "tags": "jody hadlock psychology psychologyofmoney investment book morgan housel"
+
+    },
+    {
+        "id":15,
+        "title":"Elizabeth The Queen",
+        "price":23,
+        "category":"Book",
+        "author":"Sally bedell smith",
+        "image":"images/elizabeth.jpeg",
+        "inStock": true,
+        "tags": "money psychology psychologyofmoney investment book morgan housel"
+
+    },
+    {
+        "id":16,
+        "title":"Outliers",
+        "price":22,
+        "category":"Book",
+        "author":"Malcolm Gladwell",
+        "image":"/images/outliers.jpeg",
+        "inStock": false,
+        "tags": "success successful people book lifestyle malcolm gladwell "
+
+    },
+    {
+        "id":17,
+        "title":"Madly,Deeply the Alan Rickman Diaries",
+        "price":23,
+        "category":"Book",
+        "author":"Malcolm Gladwell",
+        "image":"/images/outliers.jpeg",
+        "inStock": true,
+        "tags": "success successful people book lifestyle malcolm gladwell "
+
+    }
+
+
+
+]
+
