@@ -36,7 +36,7 @@ const Landing = () => {
 
   </div>
   <p className='text-3xl font-semibold text-center px-[20px] pt-[70px] text-[#3C2A21] '>New York Times Best Sellers <br /> with <span className='text-[#D70040] italic text-4xl'>50% discount</span>  offer to our student community.  </p>
-    <button className='grid mx-auto text-xl  font-bold text-[#FFFBEB]  w-[180px]  bg-[#3C2A21] rounded-full p-[10px] text-center mt-[32px] '> <Link to="/items">shop now</Link> </button>
+    <button className='grid mx-auto text-xl  font-bold text-[#FFFBEB]  w-[180px]  bg-[#3C2A21] rounded-full p-[10px] text-center mt-[32px] '> <Link to="/items" className='hover:text-[#FFFBEB]'>shop now</Link> </button>
 </div>
 
 

@@ -12,14 +12,14 @@ const Carousel = () => {
     <div className=''>
         <div className="flex justify-center items-center my-[4rem]">
         <img src={alan} alt="" className='sm:h-[30.25rem] sm:w-[20.31rem]  max-[320px]:w-[220px] max-[320px]:h-[310px]' />
-        <div className='ml-[5rem]'>
+        <div className='min-[320px]:ml-[2rem] sm:ml-[5rem]'>
             <div>
                        <p className='text-[#3C2A21] sm:text-xl md:text-2xl lg:text-2xl font-serif'>
             Madly, Deeply: The Alan Rickman Diaries <br />
             <span className=' sm:text-xl  text-[#144272]'>Alan Rickman (author), Alan Taylor (editor), Emma Thompson (foreword) </span>
             </p>
             <div className=' my-[30px] rounded-full w-[6rem] h-[6rem] bg-[#b80909] flex items-center justify-center'><span className='sm:text-xl md:text-2xl lg:text-2xl text-center  text-white font-serif'>SALE</span>
-</div>
+            </div>
             </div>
  
 

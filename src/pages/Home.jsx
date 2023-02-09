@@ -25,12 +25,12 @@ const Home = () => {
       <Landing/>
       <Medium/>
 
-      <section className='filtering-items mt-[180px] mx-[200px] mb-[80px] '>
-           <div className=' mx-[60px]'>
+      <section className='filtering-items mt-[180px] mx-[6rem] mb-[80px] '>
+           <div className=' mx-auto'>
             <div className="lg:flex justify-between ">
            <p className='w-[100px] border-l-[7px] border-[#EB6440] pl-[18px] lg:text-4xl sm:text-3xl  font-semibold text-[#1A120B] pt-[40px]  mt-[30px] mb-[70px] font-serif'>Beautifully Written Books by Women</p>
            </div>
-           <div className='flex flex-wrap  lg:justify-between sm:justify-center'>
+           <div className='flex flex-wrap  lg:justify-between min-[320px]:justify-center'>
                 { items.map(item => (
                   item.id>11&&item.id<17 ?<div key={item.id} className=""> 
                     <Item {...item}  />
@@ -54,7 +54,7 @@ const Home = () => {
              {/* <p className='font-sans md:text-2xl sm:text-xl underline text-[#EB6440]  lg:pt-[40px]  sm:mb-[35px] lg:mt-[30px]  '><Link to="/items">View all</Link></p> */}
         </div>
 
-           <div className='flex flex-wrap  lg:justify-between sm:justify-center'>
+           <div className='flex flex-wrap  lg:justify-between min-[320px]:justify-center'>
                 { items.map(item => (
                   item.id<6?<div key={item.id} className=""> 
                     <Item {...item}  />
@@ -70,7 +70,7 @@ const Home = () => {
         <p className='w-[100px] border-l-[7px] border-[#EB6440] pl-[18px] lg:text-4xl sm:text-3xl   font-semibold text-[#1A120B] pt-[40px] mt-[30px] mb-[70px]  font-serif '>Trending and Best Sellers</p>
         </div>
 
-           <div className='flex flex-wrap lg:justify-between sm:justify-center'>
+           <div className='flex flex-wrap lg:justify-between min-[320px]:justify-center'>
                 { items.map(item => (
                   item.id>5&&item.id<11 ?<div key={item.id} className=""> 
                     <Item {...item}  />
