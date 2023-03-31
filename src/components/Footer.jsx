@@ -9,10 +9,10 @@ const Footer = () => {
         <div className="flex justify-around ">
         <div className="block ">
           <ul className=''>
-            <li className='py-[10px] sm:text-xl md:text-2xl font-sans text-[#E5E5CB] font-semibold'>Contact</li>
-            <li className='py-[10px]sm:text-xl md:text-2xl font-sans text-[#E5E5CB] '>Support</li>
-            <li className='py-[10px] sm:text-xl md:text-2xl font-sans text-[#E5E5CB] '>+1(875) 457-9856</li>
-            <li className='py-[10px] sm:text-xl md:text-2xl font-sans text-[#E5E5CB] '>Brooklyn,NY</li>
+            <li className='py-[10px] sm:text-xl md:text-xl font-sans text-[#E5E5CB] font-semibold'>Contact</li>
+            <li className='py-[10px]sm:text-xl md:text-xl font-sans text-[#E5E5CB] '>Support</li>
+            <li className='py-[10px] sm:text-xl md:text-xl font-sans text-[#E5E5CB] '>+1(875) 457-9856</li>
+            <li className='py-[10px] sm:text-xl md:text-xl font-sans text-[#E5E5CB] '>Brooklyn,NY</li>
 
           
 
@@ -20,17 +20,17 @@ const Footer = () => {
         </div>
         <div className="block ">
           <ul className=''>
-            <li className='py-[10px] sm:text-xl md:text-2xl font-sans text-[#E5E5CB] font-semibold'>To the Customer</li>
-            <li className='py-[10px] sm:text-xl md:text-2xl font-sans text-[#E5E5CB] '>Gift Cards</li>
-            <li className='py-[10px] sm:text-xl md:text-2xl font-sans text-[#E5E5CB] '>Returns and Refund</li>
-            <li className='py-[10px] sm:text-xl md:text-2xl font-sans text-[#E5E5CB] '>Deliveries</li>
+            <li className='py-[10px] sm:text-xl md:text-xl font-sans text-[#E5E5CB] font-semibold'>To the Customer</li>
+            <li className='py-[10px] sm:text-xl md:text-xl font-sans text-[#E5E5CB] '>Gift Cards</li>
+            <li className='py-[10px] sm:text-xl md:text-xl font-sans text-[#E5E5CB] '>Returns and Refund</li>
+            <li className='py-[10px] sm:text-xl md:text-xl font-sans text-[#E5E5CB] '>Deliveries</li>
 
 
           </ul>
         </div>
         <div className="block ">
           <ul className=''>
-          <li className='py-[10px] sm:text-xl md:text-2xl font-sans text-[#E5E5CB] font-semibold ml-[10px]'>Get notified from us!</li>
+          <li className='py-[10px] sm:text-xl md:text-xl font-sans text-[#E5E5CB] font-semibold ml-[10px]'>Get notified from us!</li>
           <div className=' '>
         <div className="social-accounts ">
              </div>
